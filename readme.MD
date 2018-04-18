@@ -25,6 +25,6 @@ Microsoft Azure Active Directory (oAuth)
 
 
 ## Credits
-Thanks to Microsoft MSDN, is not the best place but is their place
+Thanks to Microsoft MSDN, is not the best place but is its place
 
 <img src="meme.jpg" >
