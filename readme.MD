@@ -19,8 +19,8 @@
 * [Credits](#credits)
 
 ## Requirements
-Microsoft .Net Framework 4.6.1
-Microsoft Azure account
+Microsoft .Net Framework 4.6.1 /
+Microsoft Azure account /
 Microsoft Azure Active Directory (oAuth)
 
 
